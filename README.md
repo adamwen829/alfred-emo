@@ -1,2 +1,4 @@
-# alfred-emo
-find emoji quickly
+# Alfred-Emo
+Find emoji quickly
+
+![This is an image](./assets/screenshot.png)
